@@ -1,5 +1,4 @@
 Line 1 added to master before the branch
-Line 2 adde to master after the branch < this will conflict
-Line 2 added to topic branch before pull request
 Line 3 text replaced in the topic branch
+
 Line 3 added to master before the branch
