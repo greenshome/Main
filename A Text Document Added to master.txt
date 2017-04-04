@@ -1,6 +1,0 @@
-Line 1 text - added in Master before the branch
-Line 2 text - Added to Master after the branch
-Line 2 text - added in Branch2 before the pull request
-Line 3 text - added in Master before the branch with spelling mistake
-Line 4 text - added in Branch2 before the pull request
-Line 4 text - added to master after the branch
