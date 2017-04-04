@@ -1,3 +1,4 @@
 Line 1 text - added in Master before the branch
-
-Line 3 text - added in Master before the branch with spelling pistoke
+Line 2 text - added in Branch2 before the pull request
+Line 3 text - added in Master before the branch with spelling mistake
+Line 4 text - added in Branch2 before the pull request
