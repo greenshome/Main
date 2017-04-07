@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string a = "lolsdlsdflkjsdlfk";
-			Console.WriteLine(a); // <-- I did this My change
+			Console.WriteLine(a); // <-- This might just fkn work you know
         }
     }
 }
