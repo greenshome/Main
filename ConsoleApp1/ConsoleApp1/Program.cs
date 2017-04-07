@@ -10,13 +10,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string a = "something else";
+            string a = "something else Ians text";
             Console.WriteLine(a); // <-- Another something else
         }
 
         static void AnotherMethod()
         {
             string b = "Get rekt baddies";
-        }
+        } // Ians comment
     }
 }
