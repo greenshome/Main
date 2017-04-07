@@ -10,8 +10,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string a = "lolsdlsdflkjsdlfk";
-			Console.WriteLine(a); // <-- I did this My change 2
+            string a = "lolsdlsdflkjsdlfk"; // another one
+			Console.WriteLine(a); // <-- I did this My change 3
         }
+
+
+		public void AnotherOne()
+		{
+			Console.WriteLine("yo");
+		}
     }
 }
