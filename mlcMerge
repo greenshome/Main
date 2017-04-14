@@ -1,2 +1,0 @@
-branch=$(git branch | grep \* | cut -d ' ' -f2)
-mlcBranch "$1" "${branch}_merge" 
